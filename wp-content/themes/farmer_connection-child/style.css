@@ -1,0 +1,23 @@
+/*
+Theme Name:Farmer Connection Child
+Theme URI:http://histpk.org
+Author:Nazir Ahmed
+Author URI:http://lms.histpk.org
+License:GNU General Public License V3 OR Later
+License URI:http://www.gnu.org/licenses/quick-guide-gplv3.html
+Version:1.0
+Description: Used By Millions. This theme is best choice for your agriculture website.
+Tags:News,News Channel,Channel,Magzine,Updates
+Text Domain:farmer_connection-child
+Template:farmer_connection
+*/
+
+
+@import url("../farmer_connection/style.css");
+
+
+#btn-auths:hover{
+    background-color: black;
+    color: white;
+}
+

@@ -1,0 +1,423 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Prisna GWT\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-09-20 08:00+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Prisna\n"
+"Language-Team:  <support@prisna.net>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: /www/site/wp-content/"
+"plugins/google-website-translator\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: classes/config.class.php:120
+msgid "No settings to export. The current settings are the default ones."
+msgstr ""
+
+#: classes/config.class.php:173
+msgid "Usage"
+msgstr ""
+
+#: classes/config.class.php:177
+#, php-format
+msgid ""
+"\n"
+"\t\t\t\t\n"
+"\t\t\t\t- Go to the <em>Appereance &gt; Widgets</em> panel, search for the "
+"following widget<br /><br />\n"
+"\t\t\t\t\n"
+"\t\t\t\t<code>%s</code><br /><br />\n"
+"\t\t\t\t\n"
+"\t\t\t\t- Or copy and paste the following code into pages, posts, etc...<br /"
+"><br />\n"
+"\t\t\t\t\n"
+"\t\t\t\t<code>[prisna-google-website-translator]</code><br /><br />\n"
+"\t\t\t\t\n"
+"\t\t\t\t- Or copy and paste the following code into any page, post or front "
+"end PHP file<br /><br />\n"
+"\t\t\t\t\n"
+"\t\t\t\t<code>&lt;?php echo do_shortcode('[prisna-google-website-"
+"translator]'); ?&gt;</code><br />\n"
+"\t\t\t\t\n"
+"\t\t\t\t"
+msgstr ""
+
+#: classes/config.class.php:191
+msgid ""
+"\n"
+"\t\t\t\t\n"
+"\t\t\t\tThe selected <em>Display mode</em> doesn't require any further "
+"action.<br />\n"
+"\t\t\t\tThe plugin is already active in your website. \n"
+"\t\t\t\t\n"
+"\t\t\t\t"
+msgstr ""
+
+#: classes/config.class.php:210
+msgid "Website's language"
+msgstr ""
+
+#: classes/config.class.php:211
+msgid "Sets the website's source language."
+msgstr ""
+
+#: classes/config.class.php:221
+msgid "Translation languages"
+msgstr ""
+
+#: classes/config.class.php:222
+msgid "Sets the available languages."
+msgstr ""
+
+#: classes/config.class.php:227
+msgid "Yes, use all languages"
+msgstr ""
+
+#: classes/config.class.php:228
+msgid "No, choose languages"
+msgstr ""
+
+#: classes/config.class.php:234
+msgid "Specific languages"
+msgstr ""
+
+#: classes/config.class.php:235
+msgid "Specifically sets the available languages."
+msgstr ""
+
+#: classes/config.class.php:248
+msgid "Display mode"
+msgstr ""
+
+#: classes/config.class.php:249
+msgid ""
+"Sets the display mode. When <code>Automatic</code> is selected, the "
+"translation banner will automatically be displayed when the default browser "
+"language of the visitor is different from the language of your page. No "
+"dropdown will be displayed."
+msgstr ""
+
+#: classes/config.class.php:253
+msgid "Inline"
+msgstr ""
+
+#: classes/config.class.php:254
+msgid "Tabbed"
+msgstr ""
+
+#: classes/config.class.php:255 classes/common.class.php:850
+msgid "Automatic"
+msgstr ""
+
+#: classes/config.class.php:262 classes/config.class.php:278
+msgid "Style mode"
+msgstr ""
+
+#: classes/config.class.php:295
+msgid "Align mode"
+msgstr ""
+
+#: classes/config.class.php:296
+msgid "Sets the alignment mode of the translator within its container."
+msgstr ""
+
+#: classes/config.class.php:301
+msgid "Left"
+msgstr ""
+
+#: classes/config.class.php:302
+msgid "Right"
+msgstr ""
+
+#: classes/config.class.php:310
+msgid "Show flags over translator"
+msgstr ""
+
+#: classes/config.class.php:311
+msgid "Sets whether to display a few flags over the translator, or not."
+msgstr ""
+
+#: classes/config.class.php:316
+msgid "Yes, show flags"
+msgstr ""
+
+#: classes/config.class.php:317
+msgid "No, don't show flags"
+msgstr ""
+
+#: classes/config.class.php:325
+msgid "Select languages"
+msgstr ""
+
+#: classes/config.class.php:326
+msgid "Sets the available languages to display over the translator."
+msgstr ""
+
+#: classes/config.class.php:327
+msgid "Languages order"
+msgstr ""
+
+#: classes/config.class.php:328
+msgid "Defines the order to display the languages."
+msgstr ""
+
+#: classes/config.class.php:341
+msgid "Test mode"
+msgstr ""
+
+#: classes/config.class.php:342
+msgid ""
+"Sets whether the translator is in test mode or not. In \"test mode\", the "
+"translator will be displayed only if the current logged in user has admin "
+"privileges.<br />Is useful for setting up the translator without letting "
+"visitors to see the changes while the plugin is being implemented."
+msgstr ""
+
+#: classes/config.class.php:347
+msgid "Yes, enable test mode"
+msgstr ""
+
+#: classes/config.class.php:348
+msgid "No, disable test mode"
+msgstr ""
+
+#: classes/config.class.php:354
+msgid "Custom CSS"
+msgstr ""
+
+#: classes/config.class.php:355
+msgid "Defines custom CSS rules."
+msgstr ""
+
+#: classes/config.class.php:363
+msgid "Hide on pages, posts and categories"
+msgstr ""
+
+#: classes/config.class.php:372
+msgid "Pages"
+msgstr ""
+
+#: classes/config.class.php:373
+msgid "Selects the pages where the translator should not be displayed."
+msgstr ""
+
+#: classes/config.class.php:383
+msgid "Posts"
+msgstr ""
+
+#: classes/config.class.php:384
+msgid "Selects the posts where the translator should not be displayed."
+msgstr ""
+
+#: classes/config.class.php:394
+msgid "Categories"
+msgstr ""
+
+#: classes/config.class.php:395
+msgid "Selects the categories where the translator should not be displayed."
+msgstr ""
+
+#: classes/config.class.php:405
+msgid "Javascript callbacks"
+msgstr ""
+
+#: classes/config.class.php:414 classes/config.class.php:425
+msgid "On before load"
+msgstr ""
+
+#: classes/config.class.php:415 classes/config.class.php:426
+msgid "Defines a javascript routine that runs before the translator is loaded."
+msgstr ""
+
+#: classes/config.class.php:436
+msgid "On after load"
+msgstr ""
+
+#: classes/config.class.php:437
+msgid "Defines a javascript routine that runs after the translator is loaded."
+msgstr ""
+
+#: classes/config.class.php:447
+msgid "Templates"
+msgstr ""
+
+#: classes/config.class.php:456
+msgid "Flags container template"
+msgstr ""
+
+#: classes/config.class.php:457
+msgid ""
+"Sets the flags' container template. New templates can be created if the "
+"provided one doesn't fit the web page requirements."
+msgstr ""
+
+#: classes/config.class.php:469
+msgid "Flag template"
+msgstr ""
+
+#: classes/config.class.php:470
+msgid ""
+"Sets the flag's template. New templates can be created if the provided one "
+"doesn't fit the web page requirements."
+msgstr ""
+
+#: classes/config.class.php:482
+msgid "Other customizations"
+msgstr ""
+
+#: classes/config.class.php:491
+msgid "Translation banner"
+msgstr ""
+
+#: classes/config.class.php:492
+msgid ""
+"Sets whether automatically display translation banner to users speaking "
+"languages other than the language of your page, or not. If the <code>Display "
+"mode</code> is set to <code>Tabbed</code>, then the <code>Completely hide "
+"the translation banner</code> option won't be selectable."
+msgstr ""
+
+#: classes/config.class.php:497
+msgid "Completely hide the translation banner"
+msgstr ""
+
+#: classes/config.class.php:499
+msgid "Don't display translation banner automatically"
+msgstr ""
+
+#: classes/config.class.php:507
+msgid "Multiple languages pages"
+msgstr ""
+
+#: classes/config.class.php:508
+msgid ""
+"Sets whether the pages in this site contain content in multiple languages."
+msgstr ""
+
+#: classes/config.class.php:514
+msgid "Yes, pages on this site contain multiple languages"
+msgstr ""
+
+#: classes/config.class.php:515
+msgid "No, pages on this site don't contain multiple languages"
+msgstr ""
+
+#: classes/config.class.php:523
+msgid "Google Analytics"
+msgstr ""
+
+#: classes/config.class.php:524
+msgid ""
+"Sets whether to track translation traffic using Google Analytics, or not."
+msgstr ""
+
+#: classes/config.class.php:529
+msgid "Yes, track traffic using Google Analytics"
+msgstr ""
+
+#: classes/config.class.php:530
+msgid "No, don't track traffic using Google Analytics"
+msgstr ""
+
+#: classes/config.class.php:538
+msgid "Google Analytics code"
+msgstr ""
+
+#: classes/config.class.php:539
+msgid "Sets the  Analytics Web Property ID. For instance: UA-12345-12"
+msgstr ""
+
+#: classes/config.class.php:549
+msgid "Import settings"
+msgstr ""
+
+#: classes/config.class.php:550
+msgid ""
+"Imports previously exported settings. Paste the previously exported settings "
+"in the field. If the data's structure is correct, it will overwrite the "
+"current settings."
+msgstr ""
+
+#: classes/config.class.php:558
+msgid "Export settings"
+msgstr ""
+
+#: classes/config.class.php:559
+msgid ""
+"Exports the current settings to make a backup or to transfer the settings "
+"from the development server to the production server. Triple click on the "
+"field to select all the content."
+msgstr ""
+
+#: classes/common.class.php:836
+#, php-format
+msgid "Add the %s."
+msgstr ""
+
+#: classes/common.class.php:863
+msgid "Title:"
+msgstr ""
+
+#: classes/admin.class.php:170
+msgid "Google Website Translator"
+msgstr ""
+
+#: classes/admin.class.php:171
+msgid "Settings saved."
+msgstr ""
+
+#: classes/admin.class.php:172
+msgid "Settings reseted."
+msgstr ""
+
+#: classes/admin.class.php:173
+msgid ""
+"All the settings will be reseted and restored to their default values. Do "
+"you want to continue?"
+msgstr ""
+
+#: classes/admin.class.php:174
+msgid "Save changes"
+msgstr ""
+
+#: classes/admin.class.php:175
+msgid "Reset settings"
+msgstr ""
+
+#: classes/admin.class.php:239 classes/admin.class.php:242
+msgid "General"
+msgstr ""
+
+#: classes/admin.class.php:241
+msgid "Advanced"
+msgstr ""
+
+#: classes/admin.class.php:243
+msgid "Premium"
+msgstr ""
+
+#: classes/admin.class.php:244
+msgid "Import / Export"
+msgstr ""
+
+#: classes/admin.class.php:245
+msgid "Settings succesfully imported."
+msgstr ""
+
+#: classes/admin.class.php:246
+msgid ""
+"There was a problem while importing the settings. Please make sure the "
+"exported string is complete. Changes weren't saved."
+msgstr ""
+
+#: classes/admin.class.php:247
+#, php-format
+msgid "Google Website Translator requires WordPress version %s or later."
+msgstr ""

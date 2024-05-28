@@ -1,0 +1,331 @@
+/*
+Theme Name:Farmer Connection
+Theme URI:http://histpk.org
+Author:Nazir Ahmed
+Author URI:http://lms.histpk.org
+License:GNU General Public License V3 OR Later
+License URI:http://www.gnu.org/licenses/quick-guide-gplv3.html
+Version:1.0
+Description: Used By Millions. This theme is best choice for your agriculture website.
+Tags:News,News Channel,Channel,Magzine,Updates
+*/
+
+
+
+
+.page-numbers{   
+    background-color: white;
+    padding: 15px;
+    font-weight: bold;
+    border-radius: 20px;
+}
+
+
+/*Author Detail Post Image*/
+.avatar{
+    border: 1px solid gray;
+    border-radius: 20px;
+    width: 120px;
+    height: 120px;
+    padding: 5px;
+    margin-top: 5px;
+}
+
+
+
+#site_header h1 a{
+	font-size: 70px;
+	text-decoration: none;
+    margin-top: 50px;
+}
+/*Header*/
+#header{
+    background-image: url(images/headers.jpg);  
+}
+
+#header{
+    width: 100%;
+    height: 300px;
+   
+}
+
+/*Footer Widgets*/
+#site_footer,#footer_widget{
+    background-image: url(images/blog2.jpg);
+}
+
+
+a#post_href{
+    text-decoration: none;
+}
+
+#archive_title{
+text-align: center;
+border-radius: 20px;
+}
+
+#archive_title h2 ul li{
+    list-style-type: none;
+    text-decoration: none;
+}
+
+#archive_title h2 ul li a{
+    text-decoration: none;
+}
+
+#post_div{
+	background-color: lightgray;
+	border-radius: 10px;
+	padding: 10px;
+	width: 1000px;
+    margin-left: 250px;
+	}
+
+
+
+/*Search Form*/
+
+#searchbar{
+background-image: url(images/blog2.jpg);    
+
+margin-left: 10px;    
+padding: 10px;
+border-radius: 10px;
+    text-align: center;
+}
+
+/*Search Header Button*/
+.btn-submit{
+    width: 150px;
+}
+/*Search Form*/
+
+
+
+/*Two Cols Layout*/
+
+#cols4
+{
+	background-color: lightgray;
+	border-radius: 10px;
+	padding: 10px;
+	width: 300px;
+    margin-left: 10px;
+float: left;
+    text-align: center;
+}
+
+#cols4 ul li{
+    background-color: white;
+    color: black;
+    font-weight: bolder;
+    border-radius: 10px;
+    height: 20px;
+    border: 2px solid black;
+   margin-top: 2px;
+list-style-type: none;
+   padding: 10px;
+}
+
+
+#cols8
+{
+	background-color: lightgray;
+	border-radius: 3px;
+	padding: 10px;
+	width: 1200px;
+    float: right; 
+    margin-right: 10px;
+}
+/*Two Cols Layout*/
+
+
+/*Three Cols Layout*/
+
+#cols3a
+{
+	background-color: lightgray;
+	border-radius: 10px;
+	padding: 10px;
+	width: 300px;
+    margin-left: 10px;
+float: left;
+    text-align: center;
+}
+
+#cols3a ul li{
+    background-color: white;
+    color: black;
+    font-weight: bolder;
+    border-radius: 10px;
+    height: 20px;
+    border: 2px solid black;
+   margin-top: 2px;
+list-style-type: none;
+   padding: 10px;
+ 
+}
+
+
+#cols3b
+{
+	background-color: lightgray;
+	border-radius: 10px;
+	padding: 10px;
+	width: 300px;
+    
+float: right;
+    text-align: center;
+}
+
+#cols3b h1,#cols3a h1,#cols6 h1{
+   color:orange;
+    background-color:black;
+    border-radius: 10px;
+    text-align: center;
+}
+
+
+
+#cols3b ul li{
+    background-color: white;
+    color: black;
+    font-weight: bolder;
+    border-radius: 10px;
+    height: 20px;
+    border: 2px solid black;
+   margin-top: 2px;
+list-style-type: none;
+   padding: 10px;
+}
+
+#cols6
+{
+	background-color: lightgray;
+	border-radius: 3px;
+	padding: 10px;
+	width: 877px;
+    float: left; 
+    margin-left: 10px;
+}
+/*Three Cols Layout*/
+
+
+.clear{
+    clear: both;
+}
+
+span#title{
+color: orangered;
+}
+
+
+
+
+/*Header Menu*/
+#menu-header-menu-links {    
+  display: block;
+  text-align: center;
+}
+#menu-header-menu-links ul {
+  margin: 0;
+  padding:0;
+  list-style: none;
+    
+}
+#menu-header-menu-links a {
+   
+  display:block; 
+  background: white; 
+  color: #000; 
+  text-decoration: none;
+  padding: 0.8em 1.8em;
+  font-size: 80%;
+  letter-spacing: 2px;
+  text-shadow: 0 -1px 0 #000;
+  position: relative;
+  font-weight: bold;
+ 
+}
+#menu-header-menu-links{  
+  vertical-align: top; 
+  display: inline-block;
+  box-shadow: 
+    1px -1px -1px 1px #000, 
+    -1px 1px -1px 1px #fff, 
+    0 0 6px 3px #fff;
+  border-radius:6px;
+}
+#menu-header-menu-links li {
+  position: relative;
+list-style-type: none;
+    
+}
+#menu-header-menu-links > li { 
+  float: left; 
+  border-bottom: 4px #fff solid; 
+  margin-right: 1px; 
+    margin-top: 2px;
+} 
+
+#menu-header-menu-links > li:hover, 
+#menu-header-menu-links > li:hover > a { 
+  border-bottom-color: red;
+}
+#menu-header-menu-links li:hover > a { 
+  color:#000; 
+}
+#menu-header-menu-links > li:first-child { 
+  border-radius: 4px 0 0 4px;
+} 
+#menu-header-menu-links > li:first-child > a { 
+  border-radius: 4px 0 0 0;
+}
+#menu-header-menu-links > li:last-child { 
+  border-radius: 0 0 4px 0; 
+  margin-right: 0;
+} 
+#menu-header-menu-links > li:last-child > a { 
+  border-radius: 0 4px 0 0;
+}
+#menu-header-menu-links li li a { 
+  margin-top: 1px;
+}
+#menu-header-menu-links li a:first-child:nth-last-child(2):before { 
+  content: ""; 
+  position: absolute; 
+  height: 0; 
+  width: 0; 
+  border: 5px solid transparent; 
+  top: 50% ;
+  right:5px;  
+ }
+
+#menu-header-menu-links  li.current-menu-item a:link,
+#menu-header-menu-links  li.current-menu-item a:visited,
+#menu-header-menu-links li.current-page-ancestor a:link,
+#menu-header-menu-links li.current-page-ancestor a:visited{
+background-color: red;
+box-shadow: inset 0 2em .33em -0.5em red;    
+    color: black;   
+}
+
+
+ /* submenu positioning*/
+#menu-header-menu-links ul {
+  position: absolute;
+  white-space: nowrap;
+  border-bottom: 5px solid  red;
+  z-index: 1;
+  left: -99999em;
+}
+#menu-header-menu-links > li:hover > ul {
+  left: auto;
+  margin-top: 5px;
+  min-width: 100%;
+}
+#menu-header-menu-links > li li:hover > ul { 
+  left: 100%;
+  margin-left: 1px;
+  top: -1px;
+}
