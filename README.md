@@ -58,6 +58,6 @@ The profile include name, email, mobile number, location (city, state, country),
 - Plateform: Web
 - Client Side Technology: HTML, JavaScript, jQuery, CSS, Bootstrap
 - Server Side Technology: PHP
-- Coding Techniques: Object Oriented Programming (OOP), PAJAX
+- Coding Technique: Object Oriented Programming (OOP), AJAX
 - CMS: WordPress
 - Database: MySQL
