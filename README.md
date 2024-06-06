@@ -54,12 +54,10 @@ The profile include name, email, mobile number, location (city, state, country),
 - Data Handling Into Custom Tables In Front-End
 - Child Theme
 
-
-# WORDPRESS
-WordPress is a web content management system. It was originally created as a tool to publish blogs but has evolved to support publishing other web content, including more traditional websites, mailing lists and Internet forum, media galleries, membership sites, learning management systems and online stores.
-
-
-
-
-
-
+# System Information
+- Plateform: Web
+- Client Side Technology: HTML, JavaScript, jQuery, CSS, Bootstrap
+- Server Side Technology: PHP
+- Coding Techniques: Object Oriented Programming (OOP), PAJAX
+- CMS: WordPress
+- Database: MySQL
