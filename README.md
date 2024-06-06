@@ -1,11 +1,10 @@
 # Farmer Connection
-# Inroduction
 This website is developed in Wordpress (Web Content Management System). The purpose of this website is to help farmers in gaining knowledge, connecting with experts to improve their crops, sharing their success stories, buying agricultural items, and to sell their produce. Thisis a responsive website optimized for viewing on desktops, mobiles and tablets with multi-language support.
 
 It provides users to register an account by creating a profile. 
 The profile include name, email, mobile number, location (city, state, country), profession (farmer, academics, consultant, other), level of expertise (expert, intermediate, beginner), picture, etc. 
 
-# Modules
+## Modules
 - Discussion Forum
 - Knowledge Base
 - Consultancy Sercices
@@ -13,23 +12,23 @@ The profile include name, email, mobile number, location (city, state, country),
 - Product Sale
 - eCommerce Website
 
-# Themes
+## Themes
 - Farmer Connection Parent Theme
 - Farmer Connection Child Theme
 
-# Cutom Plugins
+## Cutom Plugins
 - Slider
 - Google Map
 - eCommerce Shop
 - Widgets Short Code
 
-# Widgets
+## Widgets
 - Archives Widget
 - Comments Widget
 - Seacrh Widget
 - Tags Widget
 
-# WordPress Development
+## WordPress Development
 - The Theme Template Hierarchy
 - Navigation Menus + Child Page Menu
 - Custom Page Templates
@@ -54,7 +53,7 @@ The profile include name, email, mobile number, location (city, state, country),
 - Data Handling Into Custom Tables In Front-End
 - Child Theme
 
-# System Information
+## System Information
 - Plateform: Web
 - Client Side Technology: HTML, JavaScript, jQuery, CSS, Bootstrap
 - Server Side Technology: PHP
